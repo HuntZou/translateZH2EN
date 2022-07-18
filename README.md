@@ -6,3 +6,5 @@ seq2seq model base on encoder-decoder model
 做了部分修改，但基本流程保持不变
 
 数据集以及包含在项目中了，无需重新下载
+
+其他例如环境准备及遇到的问题 见 https://blog.woyou.cool/post/2737
